@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfSymulator.LoseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSymulator"
+        mc:Ignorable="d"
+        Title="LoseWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Height="500" Source="https://c4.wallpaperflare.com/wallpaper/398/874/541/champions-league-stadium-wallpaper-preview.jpg"></Image>
+        <Button Click="PlayAgainButton_Click" Background="White" FontWeight="Bold" FontSize="20" Width="150" Height="30" Foreground="Black" x:Name="PlayAgainButton" HorizontalAlignment="Left" Margin="100,250,0,0" Content="PLAY AGAIN" VerticalAlignment="Top"/>
+        <Button Click="ExitButton_Click" Background="White" FontWeight="Bold" FontSize="20" Width="150" Height="30" Foreground="Black" x:Name="ExitButton" HorizontalAlignment="Left" Margin="550,250,0,0" Content="EXIT" VerticalAlignment="Top"/>
+        <TextBlock Margin="30" TextWrapping="Wrap"  HorizontalAlignment="Center" VerticalAlignment="Top" Name="TekstSpr" Text="YOU LOST!"  TextAlignment="Center" FontSize="40" FontStyle="Italic" FontWeight="Bold" Foreground="Gold"/>
+        <StackPanel>
+            <Image Name="finalImage" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,200,0,0" ></Image>
+            <TextBlock Name="lostBox" FontWeight="Bold" Foreground="BlanchedAlmond" FontSize="18" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Top" Text="Drużyna 1 i 2"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

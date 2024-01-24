@@ -1,0 +1,149 @@
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.exe
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\EPPlus.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CopyComplete
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.runtimeconfig.json
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.runtimeconfig.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.genruntimeconfig.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\bin\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.ResolveComReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\refint\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\Symulator_CL.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\Symulator_CL\obj\Debug\net8.0\ref\Symulator_CL.dll

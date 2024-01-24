@@ -1,0 +1,485 @@
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Informatyka i Ekonometria\2 ROK\C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OEM\source\repos\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.xml
+C:\Users\grs4v\source\repos\ProjektSymulatorLM\ProjektSymulatorLM\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.xml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.exe
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\barcelona_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\bayern_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\city_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\CL_Anthem.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\FIFA_Data2.xlsx
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\liverpool_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\PercheTiAmo.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\psg_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WeAreTheChampions.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\real_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\united_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\wisla_logo.png
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Images\WislaSong.mp3
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.deps.json
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.runtimeconfig.json
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\WpfSymulator.xml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\bin\Debug\net8.0-windows\Symulator_CL.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.AssemblyReference.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_Content.g.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator_MarkupCompile.lref
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FifthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\FourthWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\LoseWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ThirdWindow.baml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.g.resources
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfoInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.AssemblyInfo.cs
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.csproj.CopyComplete
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\refint\WpfSymulator.dll
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.xml
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.pdb
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\WpfSymulator.genruntimeconfig.cache
+C:\Users\kubaz\OneDrive\Pulpit\Champions League Simulator\Projekt_C#\WpfSymulator\obj\Debug\net8.0-windows\ref\WpfSymulator.dll

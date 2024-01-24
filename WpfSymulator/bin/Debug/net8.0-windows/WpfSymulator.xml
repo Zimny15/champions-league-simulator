@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WpfSymulator</name>
+    </assembly>
+    <members>
+        <member name="T:WpfSymulator.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.DBConnection">
+            <summary>
+            Class used to establish a connection with an SQLite database
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DBConnection.CreateTable">
+            <summary>
+            Method creating a table of player names in a database
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DBConnection.AddPlayer(System.String)">
+            <summary>
+            Method adding a player to a database
+            </summary>
+            <param name="name">Name of the player being added</param>
+            <exception cref="T:System.Exception">Exception thrown when a name already exists in a database</exception>
+        </member>
+        <member name="M:WpfSymulator.DBConnection.GetPlayerList">
+            <summary>
+            Method retrieving player names from a database
+            </summary>
+            <returns>A list of strings containing player names</returns>
+        </member>
+        <member name="M:WpfSymulator.DBConnection.DeleteAllPlayers">
+            <summary>
+            Method clearing the table of player names from a database
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.DBPlayerProfile">
+            <summary>
+            Class representing a player profile stored in a database
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DBPlayerProfile.#ctor">
+            <summary>
+            Creates an instance of the class and sets the isDefault parameter to false
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DBPlayerProfile.#ctor(System.String)">
+            <summary>
+            Creates an instance of the class, sets its name parameter and sets the isDefault parameter to false
+            </summary>
+            <param name="name">Name of a player profile</param>
+        </member>
+        <member name="T:WpfSymulator.DefaultPlayerProfile">
+            <summary>
+            Class representing a default player profile
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DefaultPlayerProfile.#ctor">
+            <summary>
+            Creates an instance of the class and sets the isDefault parameter to true
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.DefaultPlayerProfile.#ctor(System.String)">
+            <summary>
+            Creates an instance of the class, sets its name parameter and sets the isDefault parameter to true
+            </summary>
+            <param name="name">Name of a player profile</param>
+        </member>
+        <member name="T:WpfSymulator.FifthWindow">
+            <summary>
+            Interaction logic for FifthWindow.xaml
+            </summary>
+            <summary>
+            FifthWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.FifthWindow.championshipBracket">
+            <summary>
+            Fields responsible for a new bracket, list of clubs, users club of choice, group A and a delegate to SavePlayerProfile method of MainWindow.xaml.cs
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.FifthWindow.#ctor">
+            <summary>
+            Initialises the FifthWindow, group A, list of clubs and adjusts the visibility of UI components
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.FifthWindow.GameButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles GameButton object, starts the final match, determines score, winner and loser and adjusts visibility of UI elements. If the players team loses LoseWindow is opened
+            </summary>
+            <param name="sender">GameButton button in FifthWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.FifthWindow.PlayAgainButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles PlayAgainButton object, if player profile isnt default saves the gamestate, clears bracket, users pick and the list of clubs. Opens MainWindow again
+            </summary>
+            <param name="sender">PlayAgainButton button in FifthWindow</param>
+            <param name="e">The button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.FifthWindow.ExitButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles ExitButton object, if player profile isnt default saves the gamestate and shuts down the application
+            </summary>
+            <param name="sender">ExitButton button in FifthWindow</param>
+            <param name="e">The button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.FifthWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.FourthWindow">
+            <summary>
+            Interaction logic for FourthWindow.xaml
+            </summary>
+            <summary>
+            FourthWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.FourthWindow.championshipBracket">
+            <summary>
+            Fields responsible for a new bracket, list of clubs, users club of choice and groups A and B
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.FourthWindow.#ctor">
+            <summary>
+            Initialises the FourthWindow, a new bracket, groups A and B and showcases pairs of clubs that play against each other
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.FourthWindow.GameButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles GameButton object, starts all of the matches, determines scores, winners and losers. Depending on the players team score LoseWindow or FifthWindow opens
+            </summary>
+            <param name="sender">GameButton button in FourthWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.FourthWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.LoseWindow">
+            <summary>
+            Interaction logic for LoseWindow.xaml
+            </summary>
+            <summary>
+            LoseWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.LoseWindow.championshipBracket">
+            <summary>
+            Fields responsible for a new bracket, list of clubs, users club of choice and a delegate to SavePlayerProfile method of MainWindow.xaml.cs
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.LoseWindow.#ctor">
+            <summary>
+            Initialises LoseWindow and displays users club of choice as eliminated form the tournament bracket
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.LoseWindow.PlayAgainButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles PlayAgainButton object, if player profile isnt default saves the gamestate, clears bracket, users pick and the list of clubs. Opens MainWindow again
+            </summary>
+            <param name="sender">PlayAgainButton button in LoseWindow</param>
+            <param name="e">The button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.LoseWindow.ExitButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles ExitButton object, if player profile isnt default saves the gamestate and shuts down the application
+            </summary>
+            <param name="sender">ExitButton button in LoseWindow</param>
+            <param name="e">The button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.LoseWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.SavePlayerProfileDelegate">
+            <summary>
+            Delegate to the SavePlayerProfile method
+            </summary>
+            <param name="player">Player profile to be saved</param>
+            <param name="xmlFile">Name of a save file</param>
+        </member>
+        <member name="T:WpfSymulator.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.MainWindow.isMusicPaused">
+            <summary>
+            Fields representing state of music playback, excel reader class, list of clubs and new name created by the user
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.refreshListBox">
+            <summary>
+            Refreshes the listbox contents based on the contents of a database
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.LoadPlayerProfile(System.String)">
+            <summary>
+            Loads a player profile from an xml save file
+            </summary>
+            <param name="xmlFile">Name of the save file</param>
+            <returns>A player profile deserialized from a save file</returns>
+            <exception cref="T:WpfSymulator.XmlDeserializationException">Thrown when deserialization is not successful</exception>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.SavePlayerProfile(WpfSymulator.DBPlayerProfile,System.String)">
+            <summary>
+            Saves a player profile to an xml file
+            </summary>
+            <param name="player">Player profile to be saved</param>
+            <param name="xmlFile">Name of a save file</param>
+            <exception cref="T:WpfSymulator.XmlSerializationException">Thrown when serialization is not successful</exception>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.#ctor">
+            <summary>
+            Initialisation of the MainWindow
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.PrintText(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Handles the listbox UI element and the users clicks
+            </summary>
+            <param name="sender">Listbox in MainWIndow</param>
+            <param name="e">User clicking at one of the items in the listbox' selection</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.startButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the startButton object
+            </summary>
+            <param name="sender">startButton in MainWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.defaultPlayerStart_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the DefaultPlayerStart object
+            </summary>
+            <param name="sender">DefaultPlayerStart button in MainWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.musicButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the musicButton object and the state of music playback
+            </summary>
+            <param name="sender">musicButton in MainWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.createButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the createButton object responsible for creating a new player profile
+            </summary>
+            <param name="sender">createButton in MainWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.newPlayerProfile_TextChanged(System.Object,System.Windows.Controls.TextChangedEventArgs)">
+            <summary>
+            Handles the newPlayerProfile object responsible for getting user input 
+            </summary>
+            <param name="sender">newPlayerProfile textbox in MainWindow</param>
+            <param name="e">Text being changed</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.showScore_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the showScore object, responsible for showing current player profile statistics
+            </summary>
+            <param name="sender">showScore button in MainWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.SecondWindow">
+            <summary>
+            Interaction logic for SecondWindow.xaml
+            </summary>
+            <summary>
+            SecondWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.SecondWindow.wszystkieKluby">
+            <summary>
+            Fields responsible for a list of clubs and the users club of choice
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.#ctor">
+            <summary>
+            Initialises the SecondWindow
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.RealMadrit_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the RealMadrit object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">RealMadrit button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.FCBarcelona_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the FCBarcelona object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">FCBarcelona button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.ManchesterCity_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the ManchesterCity object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">ManchesterCity button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.ManchesterUnited_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the ManchesterUnited object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">ManchesterUnited button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.PSG_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the PSG object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">PSG button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.Liverpool_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the Liverpool object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">Liverppol button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.FCBayern_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the FCBayern object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">FCBayern button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.WislaKrakow_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles the WislaKrakow object, updates userPick and opens a new ThirdWindow
+            </summary>
+            <param name="sender">WislaKrakow button in SecondWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.DisableButtons">
+            <summary>
+            Method responsible for disabling all buttons 
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.SecondWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.ThirdWindow">
+            <summary>
+            Interaction logic for ThirdWindow.xaml
+            </summary>
+            <summary>
+            ThirdWindow
+            </summary>
+        </member>
+        <member name="F:WpfSymulator.ThirdWindow.championshipBracket">
+            <summary>
+            Fields responsible for a new bracket, list of clubs, users club of choice and groups A to D
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.ThirdWindow.#ctor">
+            <summary>
+            Initialises ThirdWindow, creates a randomised bracket and shows pairs of clubs that play against each other
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.ThirdWindow.GameButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handles GameButton object, starts all of the matches, determines scores, winners and losers. Depending on the players team score LoseWindow or FourthWindow opens
+            </summary>
+            <param name="sender">GameButton button in ThirdWindow</param>
+            <param name="e">Button being clicked</param>
+        </member>
+        <member name="M:WpfSymulator.ThirdWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfSymulator.XmlDeserializationException">
+            <summary>
+            Exception thrown when deserialization from an xml file isnt successful
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.XmlDeserializationException.#ctor">
+            <summary>
+            Initialises an instance of the class
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.XmlDeserializationException.#ctor(System.String)">
+            <summary>
+            Initialises an instance of the class and sets the parameter message
+            </summary>
+            <param name="message">Specifies what caused the exception to be thrown</param>
+        </member>
+        <member name="M:WpfSymulator.XmlDeserializationException.#ctor(System.String,System.Exception)">
+            <summary>
+            Initialises an instance of the class and sets parameters message and exception
+            </summary>
+            <param name="message">Specifies what caused the exception to be thrown</param>
+            <param name="exception">Exception caught when deserialization fails</param>
+        </member>
+        <member name="T:WpfSymulator.XmlSerializationException">
+            <summary>
+            Exception thrown when serialization from an xml file isnt successful
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.XmlSerializationException.#ctor">
+            <summary>
+            Initialises an instance of the class
+            </summary>
+        </member>
+        <member name="M:WpfSymulator.XmlSerializationException.#ctor(System.String)">
+            <summary>
+            Initialises an instance of the class and sets the parameter message
+            </summary>
+            <param name="message">Specifies what caused the exception to be thrown</param>
+        </member>
+        <member name="M:WpfSymulator.XmlSerializationException.#ctor(System.String,System.Exception)">
+            <summary>
+            Initialises an instance of the class and sets parameters message and exception
+            </summary>
+            <param name="message">Specifies what caused the exception to be thrown</param>
+            <param name="exception">Exception caught when serialization fails</param>
+        </member>
+    </members>
+</doc>

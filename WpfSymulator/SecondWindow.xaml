@@ -1,0 +1,89 @@
+﻿<Window x:Class="WpfSymulator.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSymulator"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="TransparentButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="Transparent">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="LightBlue"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Background" Value="Transparent"/>
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Image Height="500" Source="https://c4.wallpaperflare.com/wallpaper/398/874/541/champions-league-stadium-wallpaper-preview.jpg"></Image>
+        <TextBlock Name="wyborDruzyny" FontSize="30" FontStyle="Italic" FontWeight="Heavy" HorizontalAlignment ="Center" Margin="30" Background="Transparent" Foreground="Gold">CHOOSE YOUR TEAM</TextBlock>
+        <StackPanel HorizontalAlignment="Left" Margin="96,140,0,0" VerticalAlignment="Top">
+            <Button Click="RealMadrit_Click" Name="RealMadrit" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\real_logo.png" Width="80"></Image>
+            </Button>
+            <TextBlock Text="Real Madrit" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="272,140,0,0" VerticalAlignment="Top">
+            <Button  Click="FCBarcelona_Click" Name="FCBarcelona" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\barcelona_logo.png" Width="80"></Image>
+            </Button>
+            <TextBlock Text="FC Barcelona" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="434,140,0,0" VerticalAlignment="Top">
+            <Button Click="ManchesterCity_Click" Name="ManchesterCity" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\city_logo.png" Width="80"></Image>
+            </Button>
+            <TextBlock Text="Manchester City" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="604,140,0,0" VerticalAlignment="Top">
+            <Button Click="ManchesterUnited_Click" Name="ManchesterUnited" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\united_logo.png" Width="80" Height="80">
+                </Image>
+            </Button>
+            <TextBlock Text="Manchester United" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+
+
+        <StackPanel HorizontalAlignment="Left" Margin="96,300,0,0" VerticalAlignment="Top" >
+            <Button Click="PSG_Click" Name="PSG" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\psg_logo.png" Width="80"></Image>
+            </Button>
+            <TextBlock Text="PSG" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="272,300,0,0" VerticalAlignment="Top" >
+            <Button Click="Liverpool_Click" Name="Liverpool" Width="80" Height="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\liverpool_logo.png" Width="80" Height="80"></Image>
+            </Button>
+            <TextBlock Text="Liverpool" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="448,300,0,0" VerticalAlignment="Top" >
+            <Button Click="FCBayern_Click" Name="FCBayern" Width="80" Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\bayern_logo.png" Width="80" Height="80"></Image>
+            </Button>
+            <TextBlock Text="FC Bayern" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Margin="624,300,0,0" VerticalAlignment="Top">
+            <Button Click="WislaKrakow_Click" Name="WislaKrakow" Width="80" Height="80"  Style="{StaticResource TransparentButtonStyle}">
+                <Image Source="Images\wisla_logo.png" Width="80" Height="80"></Image>
+            </Button>
+            <TextBlock Text="Wisla Krakow" TextAlignment="Center" Foreground="Gold" FontWeight="Bold" FontSize="15"/>
+        </StackPanel>
+        <MediaElement x:Name="topMusic" Source="Images\PercheTiAmo.mp3" LoadedBehavior="Manual"></MediaElement>
+        <MediaElement x:Name="wislaMusic" Source="Images\WislaSong.mp3" LoadedBehavior="Manual"></MediaElement>
+    </Grid>
+</Window>

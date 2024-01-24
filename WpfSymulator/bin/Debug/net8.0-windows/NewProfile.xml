@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBPlayerProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <numberOfWins>1</numberOfWins>
+  <numberOfLosses>0</numberOfLosses>
+  <isDefault>false</isDefault>
+  <Name>NewProfile</Name>
+</DBPlayerProfile>

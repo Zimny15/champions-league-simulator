@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfSymulator.FifthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSymulator"
+        mc:Ignorable="d"
+        Title="FifthWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Height="500" Source="https://c4.wallpaperflare.com/wallpaper/398/874/541/champions-league-stadium-wallpaper-preview.jpg" Margin="0,0,0,-66"></Image>
+        <Button Background="White" FontWeight="Bold" FontSize="20" Foreground="Black" x:Name="GameButton"  Content="PLAY" Click="GameButton_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="350,350,0,0" Width="80" Height="30"></Button>
+        <TextBlock Margin="40" TextWrapping="Wrap"  HorizontalAlignment="Center" VerticalAlignment="Top" Name="TekstSpr" Text="GRAND FINAL !!!"  TextAlignment="Center" FontSize="35" FontStyle="Italic" FontWeight="Bold" Foreground="Gold"  />
+        <Button Click="PlayAgainButton_Click"  Background="White" FontWeight="Bold" FontSize="20" Width="150" Height="30" Foreground="Black" x:Name="PlayAgainButton" HorizontalAlignment="Left" Margin="100,250,0,0" Content="PLAY AGAIN" VerticalAlignment="Top"/>
+        <Button Click="ExitButton_Click"  Background="White" FontWeight="Bold" FontSize="20" Width="150" Height="30" Foreground="Black" x:Name="ExitButton" HorizontalAlignment="Left" Margin="550,250,0,0" Content="SAVE &amp; EXIT" VerticalAlignment="Top"/>
+        <StackPanel>
+            <TextBlock x:Name="finaltitle" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,170,0,0" FontSize="50" FontWeight="Bold" Foreground="Gold">FINAL GAME</TextBlock>
+            <Image x:Name="finalImage" Height="0" Width="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,0" ></Image>
+            <TextBlock FontWeight="Bold" Foreground="BlanchedAlmond" FontSize="18" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Top" x:Name="finalGame" Text="Drużyna 1 i 2"/>
+        </StackPanel>
+        <MediaElement x:Name="winningMusic" Source="Images\WeAreTheChampions.mp3" LoadedBehavior="Manual"></MediaElement>
+    </Grid>
+</Window>
